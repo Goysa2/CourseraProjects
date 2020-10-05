@@ -1,0 +1,12 @@
+With this project we had to choose a topic an present a relevant
+visualization of that topic following design and visualization
+guidelines.
+
+I choose to represent the COVID19 cases in Ann Harbour Michigan.
+It is the county where the University of Michigan is located (and
+it is the University which offered this MOOC).
+
+The data is being updated regularly therefore the plot
+might change.
+
+Originally completed in July 2020.

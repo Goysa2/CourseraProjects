@@ -1,0 +1,5 @@
+The project in this class was divided in two parts :
+    * Using supervised learning techniques to see if a
+      e-mail is spam or not.
+    * Using topic modelling techniques on a set of different documents.
+

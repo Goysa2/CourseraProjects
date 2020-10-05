@@ -1,0 +1,9 @@
+For this project, we had to train a model that would predict
+if two people were likely to email each other.
+The features used, were mostly features from graphs extracted with
+NetworkX.
+
+
+Note that this assignment was done online in a Jupyter notebook.
+There might compatibility issues (i.e. doesn't work with NewtorkX
+v2.x only with NetworkX v.1.x).

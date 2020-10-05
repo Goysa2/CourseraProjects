@@ -1,0 +1,10 @@
+In this project we had to create a predictive to see
+if a person was more or less likely to pay a blight
+ticket based on different features.
+
+I didn't do much fine tuning on the choice of the model
+or on the model parameters, as this topic didn't appeal
+to me at the time.
+
+Sadly I am unable to find the train and data set provided
+(originally in a Jupyter notebook).
